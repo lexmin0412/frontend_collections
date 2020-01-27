@@ -2,7 +2,7 @@
 
 这里包含了个人收藏的有价值的前端知识合集。
 
-## 框架/库的文档
+## 优秀框架/类库的官方文档
 
 ### Vue
 
@@ -16,3 +16,16 @@
 
 ### 日志
 - [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/Logan/WebSDK/README.ch.md), Web 前端日志库
+
+
+## 文章
+
+### 编码规范
+- [ESLint 在中大型团队的应用实践](https://tech.meituan.com/2019/08/01/eslint-application-practice-in-medium-and-large-teams.html)
+
+### 多端方案
+- [React Native在美团外卖客户端的实践](https://tech.meituan.com/2019/12/19/meituan-mrn-practice.html)
+
+### 前端日志
+
+- [美团开源 Logan Web：前端日志在 Web 端的实现](https://tech.meituan.com/2020/01/09/meituan-logan.html)
