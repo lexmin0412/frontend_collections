@@ -36,6 +36,7 @@
 
 ### 框架层
 - [Bifrost微前端框架及其在美团闪购中的实践](https://tech.meituan.com/2019/12/26/meituan-bifrost.html)
+- [打破框架的范式之争](https://mp.weixin.qq.com/s/0YuYBqD2qWf_EgKMbow1dw)
 
 ### 深度
 - [配送交付时间轻量级预估实践](https://tech.meituan.com/2019/10/10/distribution-time-prediction-practice.html)
