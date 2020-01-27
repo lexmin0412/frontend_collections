@@ -13,3 +13,6 @@
 
 ### React
 - [Ant Design Pro](https://pro.ant.design/docs/getting-started-cn), 开箱即用的企业级应用框架
+
+### 日志
+- [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/Logan/WebSDK/README.ch.md), Web 前端日志库
