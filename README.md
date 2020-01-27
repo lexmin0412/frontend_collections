@@ -2,6 +2,10 @@
 
 这里包含了个人收藏的有价值的前端知识合集。
 
+## 大厂前端团队站点
+
+- [美团技术团队](https://tech.meituan.com/)
+
 ## 优秀框架/类库的官方文档
 
 ### Vue
@@ -32,3 +36,6 @@
 
 ### 框架层
 - [Bifrost微前端框架及其在美团闪购中的实践](https://tech.meituan.com/2019/12/26/meituan-bifrost.html)
+
+### 深度
+- [配送交付时间轻量级预估实践](https://tech.meituan.com/2019/10/10/distribution-time-prediction-practice.html)
