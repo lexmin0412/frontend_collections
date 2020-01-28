@@ -27,6 +27,9 @@
 ### 团队规范
 - [ESLint 在中大型团队的应用实践](https://tech.meituan.com/2019/08/01/eslint-application-practice-in-medium-and-large-teams.html)
 
+### 端与端
+- [一篇来自前端同学对后端接口的吐槽](https://zhuanlan.zhihu.com/p/68435690)
+
 ### 多端方案
 - [React Native在美团外卖客户端的实践](https://tech.meituan.com/2019/12/19/meituan-mrn-practice.html)
 
