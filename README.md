@@ -10,16 +10,16 @@
 
 ### Vue
 
-- [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/), 快速搭建企业级中后台产品原型
+- [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/) 快速搭建企业级中后台产品原型
 
 ### Node.js
-- [egg.js](https://eggjs.org/zh-cn/intro/), 为企业级框架和应用而生的 Node.js 框架
+- [egg.js](https://eggjs.org/zh-cn/intro/) 为企业级框架和应用而生的 Node.js 框架
 
 ### React
-- [Ant Design Pro](https://pro.ant.design/docs/getting-started-cn), 开箱即用的企业级应用框架
+- [Ant Design Pro](https://pro.ant.design/docs/getting-started-cn) 开箱即用的企业级应用框架
 
 ### 日志
-- [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/Logan/WebSDK/README.ch.md), Web 前端日志库
+- [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/Logan/WebSDK/README.ch.md) Web 前端日志库
 
 
 ## 文章
