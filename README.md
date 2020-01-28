@@ -4,7 +4,7 @@
 
 ## 优秀的前端社区/站点
 - [美团技术团队](https://tech.meituan.com/)
-- [前端技术漫游指南](https://zhuanlan.zhihu.com/front-end)
+- [知乎 - 前端技术漫游指南](https://zhuanlan.zhihu.com/front-end)
 
 ## 优秀框架/类库的官方文档
 
