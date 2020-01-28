@@ -34,10 +34,11 @@
 
 - [美团开源 Logan Web：前端日志在 Web 端的实现](https://tech.meituan.com/2020/01/09/meituan-logan.html)
 
-### 框架层
+### 框架/架构
 - [Bifrost微前端框架及其在美团闪购中的实践](https://tech.meituan.com/2019/12/26/meituan-bifrost.html)
-- [微前端说明书](https://zhuanlan.zhihu.com/p/82051427)
+- [用微前端的方式搭建类单页应用](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
 - [从美团这篇文章聊聊微前端的聚合问题](https://zhuanlan.zhihu.com/p/50358444)
+- [微前端说明书](https://zhuanlan.zhihu.com/p/82051427)
 - [打破框架的范式之争](https://mp.weixin.qq.com/s/0YuYBqD2qWf_EgKMbow1dw)
 
 ### 深度
