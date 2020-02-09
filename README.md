@@ -3,11 +3,16 @@
 这里包含了个人收藏的有价值的前端知识合集。
 
 ## 优秀的前端社区/站点
+
 - [美团技术团队](https://tech.meituan.com/)
 - [京东 - 凹凸实验室](https://aotu.io/)
 - [知乎 - 前端技术漫游指南](https://zhuanlan.zhihu.com/front-end)
 
-## 优秀框架/类库的官方文档
+## 优秀框架/工具/类库的官方文档
+
+### 小程序
+
+- [微信官方文档](https://developers.weixin.qq.com/doc/)
 
 ### Vue
 
