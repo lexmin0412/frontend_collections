@@ -56,3 +56,8 @@
 
 ### 深度
 - [配送交付时间轻量级预估实践](https://tech.meituan.com/2019/10/10/distribution-time-prediction-practice.html)
+
+## 文档编写
+
+### 版本管理
+- [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
