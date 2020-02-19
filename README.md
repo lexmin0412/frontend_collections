@@ -57,6 +57,12 @@
 ### 深度
 - [配送交付时间轻量级预估实践](https://tech.meituan.com/2019/10/10/distribution-time-prediction-practice.html)
 
+### 兼容
+
+#### 移动端兼容
+
+- [移动端H5开发常用技巧](https://juejin.im/post/5e4a0162f265da57133b2005)
+
 ## 文档编写
 
 ### 版本管理
