@@ -10,9 +10,9 @@
 
 ## 优秀框架/工具/类库的官方文档
 
-### 小程序
+### 微信开发
 
-- [微信官方文档](https://developers.weixin.qq.com/doc/)
+- [微信官方文档](https://developers.weixin.qq.com/doc/) 包括小程序、小游戏、公众号等平台的开发文档
 
 ### Vue
 
