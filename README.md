@@ -72,6 +72,6 @@
 ### 版本管理
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
-### 面试
+## 面试
 
 - [fe-interview](https://github.com/haizlin/fe-interview/blob/master/category/history.md)
