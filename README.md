@@ -8,6 +8,10 @@
 - [京东 - 凹凸实验室](https://aotu.io/)
 - [知乎 - 前端技术漫游指南](https://zhuanlan.zhihu.com/front-end)
 
+## 开放平台
+
+- [腾讯位置服务](https://lbs.qq.com/)
+
 ## 优秀框架/工具/类库的官方文档
 
 ### 微信开发
@@ -67,3 +71,7 @@
 
 ### 版本管理
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
+
+### 面试
+
+- [fe-interview](https://github.com/haizlin/fe-interview/blob/master/category/history.md)
