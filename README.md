@@ -23,6 +23,8 @@
 - [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/) 快速搭建企业级中后台产品原型
 
 ### Node.js
+
+- [Node.js中文文档](http://nodejs.cn/api/)
 - [egg.js](https://eggjs.org/zh-cn/intro/) 为企业级框架和应用而生的 Node.js 框架
 
 ### React
