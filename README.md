@@ -62,6 +62,7 @@
 - [从美团这篇文章聊聊微前端的聚合问题](https://zhuanlan.zhihu.com/p/50358444)
 - [微前端说明书](https://zhuanlan.zhihu.com/p/82051427)
 - [打破框架的范式之争](https://mp.weixin.qq.com/s/0YuYBqD2qWf_EgKMbow1dw)
+- [微前端在美团外卖的实践](https://tech.meituan.com/2020/02/27/meituan-waimai-micro-frontends-practice.html)
 
 ### 深度
 - [配送交付时间轻量级预估实践](https://tech.meituan.com/2019/10/10/distribution-time-prediction-practice.html)
