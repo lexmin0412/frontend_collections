@@ -77,6 +77,7 @@
 
 ### 版本管理
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
+- [如何维护更新日志](https://keepachangelog.com/zh-CN/1.0.0/)
 
 ## 面试
 
