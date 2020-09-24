@@ -79,6 +79,10 @@
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/1.0.0/)
 
+## 第三方插件开发
+
+- [VSCode 扩展官方api](https://code.visualstudio.com/api)
+
 ## 面试
 
 - [fe-interview](https://github.com/haizlin/fe-interview/blob/master/category/history.md)
