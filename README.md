@@ -30,6 +30,10 @@
 ### React
 - [Ant Design Pro](https://pro.ant.design/docs/getting-started-cn) 开箱即用的企业级应用框架
 
+### 构建工具
+
+- [Vite中文文档](https://cn.vitejs.dev/) 下一代前端开发与构建工具
+
 ### 日志
 - [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/Logan/WebSDK/README.ch.md) Web 前端日志库
 
