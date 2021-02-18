@@ -32,7 +32,7 @@
 
 ### 构建工具
 
-- [Vite中文文档](https://cn.vitejs.dev/) 下一代前端开发与构建工具
+- [Vite](https://cn.vitejs.dev/) 下一代前端开发与构建工具
 
 ### 日志
 - [Logan](https://github.com/Meituan-Dianping/Logan/blob/master/Logan/WebSDK/README.ch.md) Web 前端日志库
