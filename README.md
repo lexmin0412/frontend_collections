@@ -5,6 +5,7 @@
 ## 优秀的前端社区/站点
 
 - [美团技术团队](https://tech.meituan.com/)
+- [有赞技术团队](https://tech.youzan.com/)
 - [京东 - 凹凸实验室](https://aotu.io/)
 - [知乎 - 前端技术漫游指南](https://zhuanlan.zhihu.com/front-end)
 
