@@ -1,3 +1,5 @@
+> 已废弃，请前往 [lexmin0412/encyclopedia](https://github.com/lexmin0412/encyclopedia) 查看最新内容。
+
 # 前端知识合集
 
 这里包含了个人收藏的有价值的前端知识合集。
